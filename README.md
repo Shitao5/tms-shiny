@@ -17,4 +17,3 @@
 3. 腾讯云内容安全服务开通：根据[「控制台-内容安全-概览」](https://console.cloud.tencent.com/cms)中的说明开通服务。
 4. 创建 [API 密钥](https://console.cloud.tencent.com/cam/capi)，修改 `app.py` 中的 `YOUR_SecretId` 和 `YOUR_SecretKey`。
 5. 根据 [Shiny 文档](https://shiny.posit.co/py/docs/deploy.html#deploy-to-shiny-server-open-source)部署。
-6. 
